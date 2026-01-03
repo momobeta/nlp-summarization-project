@@ -1,2 +1,2 @@
 # nlp-summarization-project
-# Dr. Mervat Best
+# Yay NLP is the Best!
